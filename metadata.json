@@ -1,0 +1,6 @@
+{
+  "name": "YORDEV CONTROL",
+  "description": "Control inteligente de asistencia, acceso empresarial, horarios y horas extras.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
